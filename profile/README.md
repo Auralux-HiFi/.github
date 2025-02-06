@@ -22,6 +22,9 @@ We are committed to innovation, quality, and community-driven development. Our g
 ## Contributing
 We welcome contributions from the community! Check out our [CONTRIBUTING.md](CONTRIBUTING.md) for details on how you can help improve Auralux products.
 
+## Community Standards
+By contributing, you agree to follow our [Code of Conduct](CODE_OF_CONDUCT.md). We strive to maintain a welcoming and respectful environment.
+
 ## Support
 If you have any issues or questions, feel free to open an issue or reach out to us.
 ---
