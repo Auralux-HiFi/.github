@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://your-image-url.com/logo.png" alt="Auralux Logo" width="250">
+</p>
+
 # Auralux
 
 Welcome to **Auralux**, a brand dedicated to delivering high-fidelity audio solutions for audiophiles and music enthusiasts. Our mission is to push the boundaries of audio technology to provide the best listening experience possible.
