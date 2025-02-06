@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Auralux-HiFi/logos/refs/heads/main/500x500.jpg" alt="Auralux Logo" width="250">
+  <img src="500x500.jpg" alt="Auralux Logo" width="250">
 </p>
 
 # Auralux
